@@ -8,21 +8,24 @@ Trabalho individual
     <title>Minha História</title>
 </head>
 <body>
-<h1>Maria Laura</h1>
+<h1>Maria Laura Agata</h1>
 <p><em><strong>Bairro Caravelle</strong></em></p>
 <p><em><strong>Zona Leste</strong></em></p>
 <p><em><strong>Londrina</strong></em></p>
 
-<p>Eu tenho 14 anos, nasci dia 22 de Dezembro de 2008 em Tokyo, Japão. Gosto muito de dança e cantar, gosto de assitir 
+<p>Eu tenho 14 anos, <font color="blue">nasci dia 22 de Dezembro de 2008 em Tokyo, Japão.</font> Gosto muito de dança e cantar, gosto de assitir 
 filmes/séries e gosto muito de comer! Hahaha... 
  Estou no primeiro ano do Ensino Médio, e vendo cookies e pirulitos na escola, e gosto de ganhar
 dinheiro a qualquer custo!</p>
-<p>Vim pro Brasil quando tinha 2 anos e desde então moro aqui em Londrina com a minha família.
- Moro com o meu pai(Ricardo), minha mãe (Ibahuri), com o meu irmão (cristiano) e com minhas duas cachorras</p>
+<p><font color="green">Vim pro Brasil quando tinha 2 anos e desde então moro aqui em Londrina com a minha família.</font>
+ Moro com o meu pai<font color="red">(Ricardo)</font>, minha mãe  <font color="purple">(Ibahuri)</font>, com o meu irmão <font color="pink">(Cristiano)</font> e com minhas duas cachorras</p>
 <p>Meus sonhos e metas de vida são: sair da escola com ótimos boletins, me formar em uma boa faculdade (medicina- obstetria), 
 namorar/ casar, comprar uma casa/apartamento bom e ter filhos!</p>
+<p>Para mim, família é uma das coisas mais importantes na vida de alguém. Eu quero passar para os meus futuros 
+filhos, a importância sobre ter uma família e confiar nela, pois lá eles estarão em seu porto seguro, abrigo e em casa.</p>
 </body>
 </html>
 
+<img src="https://i.pinimg.com/564x/d5/61/46/d561465729fc44213a3b5b0cd1ebb83c.jpg">
 
 
