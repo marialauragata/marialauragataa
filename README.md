@@ -1,9 +1,9 @@
-# marialauragataa
+<!DOCTYPE html>
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
+    <title>Minha História</title>
 </head>
 <body>
 <h1>Maria Laura Agata</h1>
@@ -24,6 +24,6 @@ filhos, a importância sobre ter uma família e confiar nela, pois lá eles esta
 </body>
 </html>
 
-<img src="https://i.pinimg.com/564x/d5/61/46/d561465729fc44213a3b5b0cd1ebb83c.jpg">
+<img src="https://i.pinimg.com/564x/b7/85/eb/b785eb4043560ec45936dc37fb852c9b.jpg"> 
 
 
